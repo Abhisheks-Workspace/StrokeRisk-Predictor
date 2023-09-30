@@ -1,6 +1,3 @@
-# StrokeRisk-Predictor
-This data science project aims to predict the likelihood of a patient experiencing a stroke based on various input parameters such as gender, age, presence of diseases, and smoking status. The dataset provides relevant information about each patient, enabling the development of a predictive model.
-
 # StrokeRisk Predictor
 ![](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftime.com%2F5784090%2Fai-heart-attack-stroke%2F&psig=AOvVaw39PFjRKliiFYQkkif6fC22&ust=1696158253780000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjJwoeY0oEDFQAAAAAdAAAAABAP)
 
